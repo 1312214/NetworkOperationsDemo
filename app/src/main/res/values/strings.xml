@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetworkOpsDemo</string>
+    <string name="error_notification">There is an Error that causes null string</string>
+    <string name="complete100">\n---------Complete 100%---------</string>
+</resources>
